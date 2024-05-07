@@ -1,4 +1,4 @@
-#img2thumb.ps1 powershell script
+#image2thumb.ps1 powershell script
 #Joey Collard
 #creates a smaller image at same aspectratio based on $destWidth
 #skips over existing thumb named files
